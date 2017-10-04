@@ -69,12 +69,10 @@
       "id": 3, 
       "text": {
         "description": "El Estadio Eduardo Vasconcelos es la sede del equipo de béisbol Guerreros de Oaxaca que participa en la Liga Mexicana de Béisbol; Dicho estadio fue construido en 1950, y estuvo un tiempo administrado por la Universidad Autónoma Benito Juárez de Oaxaca.", 
-        "title": "Estadio Eduardo Vasconcelos "
+        "title": "Estadio Eduardo Vasconcelos"
       },
       "imageURL":"https://raw.githubusercontent.com/MATA9310/PixelSYM-Layar/master/Fotos/Estadio_Beisbol_Equipo.jpg"
     }
-
-
   ],
   "layer": "lugaresdeporjnmz"
 }
