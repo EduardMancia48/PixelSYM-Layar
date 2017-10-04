@@ -2,9 +2,25 @@
   "errorCode": 0, 
   "errorString": "ok", 
   "hotspots": [
-    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.067747, 
+          "lon": -96.707637
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/MATA9310/PixelSYM-Layar/master/Fotos/22243780_1942470975807457_1364143476_o.jpg"
+      }, 
+      "id": 1, 
+      "text": {
+        "description": "Empresa de Audio e Iluminación Profesional\n32 años de Experiencia", 
+        "title": "ABBOZ Luz y Sonido"
+      },
+      "imageURL":"https://raw.githubusercontent.com/MATA9310/PixelSYM-Layar/master/Fotos/22243780_1942470975807457_1364143476_o.jpg"
+    }
 
-  	{
+  	/*{
       "anchor": {
         "geolocation": {
           "lat": 17.0798, 
@@ -56,7 +72,7 @@
         "title": "Estadio Eduardo Vasconcelos"
       },
       "imageURL":"https://raw.githubusercontent.com/MATA9310/PixelSYM-Layar/master/Fotos/Estadio_Beisbol_Equipo.jpg"
-    }
+    }*/
   ],
   "layer": "lugaresdeporjnmz"
 }
