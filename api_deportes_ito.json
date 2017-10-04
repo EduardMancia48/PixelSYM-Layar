@@ -18,26 +18,7 @@
         "title": "ABBOZ Luz y Sonido"
       }
 
-    } 
-    /*{
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
-      "anchor": {
-        "geolocation": {
-          "lat": 52.3616716, 
-          "lon": 4.8930322
-        }
-      }, 
-      "id": 3, 
-      "text": {
-        "title": "This POI has an action"
-      }
-    }*/
+    }
   ], 
   "layer": "lugaresdeporjnmz"
 }
